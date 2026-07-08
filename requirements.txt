@@ -4,3 +4,5 @@ langchain-community
 langchain-mistralai
 langgraph
 python-dotenv
+tavily-python
+streamlit
