@@ -18,6 +18,11 @@ The application uses a **LangChain Agent** that intelligently selects the approp
 - 🧠 Automatic tool selection by the AI agent
 
 ---
+Envirolment variables
+
+MISTRAL_API_KEY="test"
+TAVILY_API_KEY="test"
+OPENWEATHER_API_KEY="test"
 
 # 🧠 Agent Functionality
 
